@@ -8,14 +8,14 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/system/dolphin/release-25.04/windows/dolphin-release_25.04-5994-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 10B6F61D7067B94C6D64AC50EEDEF971FEF49C6FC7384A7175EEAB33DD05ED96
+  InstallerUrl: https://cdn.kde.org/ci-builds/system/dolphin/release-25.04/windows/dolphin-release_25.04-6002-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: ACC15314734930B03708BDD2D202D0727CB9ECC4FA9EF22CC18B5B46E7388929
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/system/dolphin/release-25.04/windows/dolphin-release_25.04-5994-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 10B6F61D7067B94C6D64AC50EEDEF971FEF49C6FC7384A7175EEAB33DD05ED96
+  InstallerUrl: https://cdn.kde.org/ci-builds/system/dolphin/release-25.04/windows/dolphin-release_25.04-6002-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: ACC15314734930B03708BDD2D202D0727CB9ECC4FA9EF22CC18B5B46E7388929
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
